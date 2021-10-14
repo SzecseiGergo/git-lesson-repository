@@ -1,0 +1,5 @@
+1 setup the environment
+1. feladat, beleírni egy fájlba.
+2 basic terminal operations
+3 redirections
+4 manipulations
